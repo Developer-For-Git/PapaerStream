@@ -1,1 +1,34 @@
-
+{
+  "subjects": [
+    {
+      "id": "physics",
+      "name": "Physics",
+      "items": [
+        {
+          "id": "phy_01",
+          "title": "Motion Notes",
+          "tag": "notes",
+          "url": "https://drive.google.com/uc?export=view&id=AAA"
+        },
+        {
+          "id": "phy_02",
+          "title": "Motion Assignment",
+          "tag": "assignment",
+          "url": "https://drive.google.com/uc?export=view&id=BBB"
+        }
+      ]
+    },
+    {
+      "id": "maths",
+      "name": "Maths",
+      "items": [
+        {
+          "id": "math_01",
+          "title": "Algebra Notes",
+          "tag": "notes",
+          "url": "https://drive.google.com/uc?export=view&id=CCC"
+        }
+      ]
+    }
+  ]
+}
