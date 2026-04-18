@@ -1,3 +1,4 @@
+
 {
   "subjects": [
     {
@@ -24,21 +25,9 @@
       "items": [
         {
           "id": "math_01",
-          "title": "Clas-Notes",
+          "title": "Algebra Notes",
           "tag": "notes",
-          "url": "https://drive.google.com/file/d/1l2D_AxP54erChV9JixA7901vWLeU2bSz/view?usp=sharing"
-        }
-      ]
-    },
-    {
-      "id": "it",
-      "name": "Information Technology",
-      "items": [
-        {
-          "id": "it_01",
-          "title": "Introduction to IT Notes",
-          "tag": "assignment",
-          "url": "https://drive.google.com/file/d/1r9fx3B2LD_Z-sG5L_8ezh8F-vbRhciw9/view?usp=sharing"
+          "url": "https://drive.google.com/uc?export=view&id=CCC"
         }
       ]
     }
