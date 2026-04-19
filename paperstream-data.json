@@ -2,28 +2,35 @@
   "subjects": [
     {
       "id": "physics",
-      "name": "Physics",
-      "items": []
+      "items": [],
+      "name": "Physics"
     },
     {
       "id": "maths",
-      "name": "Maths",
-      "items": []
+      "items": [],
+      "name": "Maths"
     },
     {
       "id": "it",
-      "name": "IT",
-      "items": []
+      "items": [
+        {
+          "id": "it_assi_1776573906614",
+          "tag": "assignment",
+          "title": "IT 37 Question",
+          "url": "https://drive.google.com/file/d/1r9fx3B2LD_Z-sG5L_8ezh8F-vbRhciw9/view?usp\u003dsharing"
+        }
+      ],
+      "name": "IT"
     },
     {
       "id": "foet",
-      "name": "FOET",
-      "items": []
+      "items": [],
+      "name": "FOET"
     },
     {
       "id": "em",
-      "name": "EM",
-      "items": []
+      "items": [],
+      "name": "EM"
     }
   ]
 }
