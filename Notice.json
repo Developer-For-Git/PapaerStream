@@ -11,6 +11,18 @@
       "author": "Admin",
       "attachmentUrl": "https://example.com/file.pdf",
       "isActive": true
+    },
+    {
+      "id": "2",
+      "title": "Holiday Notice",
+      "message": "College will remain closed on Monday due to maintenance work.",
+      "date": "2026-04-20",
+      "time": "09:00 AM",
+      "category": "general",
+      "priority": "medium",
+      "author": "Admin",
+      "attachmentUrl": "",
+      "isActive": true
     }
   ]
 }
