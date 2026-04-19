@@ -1,18 +1,6 @@
 {
   "notices": [
     {
-      "attachmentUrl": "https://example.com/sports.pdf",
-      "author": "Sports Dept",
-      "category": "event",
-      "date": "2026-04-21",
-      "id": "3",
-      "isActive": true,
-      "message": "Students can register for annual sports meet before 25th April.",
-      "priority": "low",
-      "time": "11:00 AM",
-      "title": "Sports Meet Registration"
-    },
-    {
       "author": "PaperStream Admin",
       "category": "General",
       "date": "Apr 19, 2026",
