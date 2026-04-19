@@ -1,18 +1,6 @@
 {
   "notices": [
     {
-      "attachmentUrl": "",
-      "author": "Admin",
-      "category": "general",
-      "date": "2026-04-20",
-      "id": "2",
-      "isActive": true,
-      "message": "College will remain closed on Monday due to maintenance work.",
-      "priority": "medium",
-      "time": "09:00 AM",
-      "title": "Holiday Notice"
-    },
-    {
       "attachmentUrl": "https://example.com/sports.pdf",
       "author": "Sports Dept",
       "category": "event",
