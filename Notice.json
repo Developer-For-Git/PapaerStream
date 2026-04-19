@@ -1,18 +1,6 @@
 {
   "notices": [
     {
-      "attachmentUrl": "https://example.com/file.pdf",
-      "author": "Admin",
-      "category": "academic",
-      "date": "2026-04-19",
-      "id": "1",
-      "isActive": false,
-      "message": "Final exam timetable has been published. Check the website for details.",
-      "priority": "high",
-      "time": "10:30 AM",
-      "title": "Exam Schedule Released"
-    },
-    {
       "attachmentUrl": "",
       "author": "Admin",
       "category": "general",
