@@ -1,3 +1,15 @@
 {
-  "notices": []
+  "notices": [
+    {
+      "author": "PaperStream Admin",
+      "category": "General",
+      "date": "Apr 19, 2026",
+      "id": "EB9D8AD8",
+      "isActive": true,
+      "message": "Test",
+      "priority": "high",
+      "time": "09:44 PM",
+      "title": "Test"
+    }
+  ]
 }
