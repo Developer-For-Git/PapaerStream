@@ -2,45 +2,28 @@
   "subjects": [
     {
       "id": "physics",
-      "items": [
-        {
-          "id": "phy_01",
-          "tag": "notes",
-          "title": "Motion Notes",
-          "url": "https://drive.google.com/uc?export\u003dview\u0026id\u003dAAA"
-        },
-        {
-          "id": "phy_02",
-          "tag": "assignment",
-          "title": "Motion Assignment",
-          "url": "https://drive.google.com/uc?export\u003dview\u0026id\u003dBBB"
-        },
-        {
-          "id": "phys_assi_1776572472201",
-          "tag": "assignment",
-          "title": "Atomic",
-          "url": "https://drive.google.com/drive/folders/1BVap1qGzUbAN2VnJwxwYXFxAgbDMdMAt?usp\u003dsharing"
-        }
-      ],
-      "name": "Physics"
+      "name": "Physics",
+      "items": []
     },
     {
       "id": "maths",
-      "items": [
-        {
-          "id": "math_01",
-          "tag": "notes",
-          "title": "Clas-Notes",
-          "url": "https://drive.google.com/file/d/1l2D_AxP54erChV9JixA7901vWLeU2bSz/view?usp\u003dsharing"
-        },
-        {
-          "id": "math_prac_1776572651053",
-          "tag": "practical",
-          "title": "Test",
-          "url": "https://drive.google.com/drive/folders/1BVap1qGzUbAN2VnJwxwYXFxAgbDMdMAt?usp\u003dsharing"
-        }
-      ],
-      "name": "Maths"
+      "name": "Maths",
+      "items": []
+    },
+    {
+      "id": "it",
+      "name": "IT",
+      "items": []
+    },
+    {
+      "id": "foet",
+      "name": "FOET",
+      "items": []
+    },
+    {
+      "id": "em",
+      "name": "EM",
+      "items": []
     }
   ]
 }
