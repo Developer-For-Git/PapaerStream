@@ -43,14 +43,7 @@
     },
     {
       "id": "em",
-      "items": [
-        {
-          "id": "em_prac_1776583417238",
-          "tag": "practical",
-          "title": "test for link",
-          "url": "https://drive.google.com/file/d/1uYnvYm8uBPfYk4tthMPVY1k3XMoIf0GE/view?usp\u003dsharing"
-        }
-      ],
+      "items": [],
       "name": "EM"
     }
   ]
