@@ -1,40 +1,51 @@
 {
   "notices": [
     {
-      "id": "1",
-      "title": "Exam Schedule Released",
-      "message": "Final exam timetable has been published. Check the website for details.",
-      "date": "2026-04-19",
-      "time": "10:30 AM",
-      "category": "academic",
-      "priority": "high",
-      "author": "Admin",
       "attachmentUrl": "https://example.com/file.pdf",
-      "isActive": true
-    },
-    {
-      "id": "2",
-      "title": "Holiday Notice",
-      "message": "College will remain closed on Monday due to maintenance work.",
-      "date": "2026-04-20",
-      "time": "09:00 AM",
-      "category": "general",
-      "priority": "medium",
       "author": "Admin",
-      "attachmentUrl": "",
-      "isActive": true
+      "category": "academic",
+      "date": "2026-04-19",
+      "id": "1",
+      "isActive": true,
+      "message": "Final exam timetable has been published. Check the website for details.",
+      "priority": "high",
+      "time": "10:30 AM",
+      "title": "Exam Schedule Released"
     },
     {
-      "id": "3",
-      "title": "Sports Meet Registration",
-      "message": "Students can register for annual sports meet before 25th April.",
-      "date": "2026-04-21",
-      "time": "11:00 AM",
-      "category": "event",
-      "priority": "low",
-      "author": "Sports Dept",
+      "attachmentUrl": "",
+      "author": "Admin",
+      "category": "general",
+      "date": "2026-04-20",
+      "id": "2",
+      "isActive": true,
+      "message": "College will remain closed on Monday due to maintenance work.",
+      "priority": "medium",
+      "time": "09:00 AM",
+      "title": "Holiday Notice"
+    },
+    {
       "attachmentUrl": "https://example.com/sports.pdf",
-      "isActive": true
+      "author": "Sports Dept",
+      "category": "event",
+      "date": "2026-04-21",
+      "id": "3",
+      "isActive": true,
+      "message": "Students can register for annual sports meet before 25th April.",
+      "priority": "low",
+      "time": "11:00 AM",
+      "title": "Sports Meet Registration"
+    },
+    {
+      "author": "PaperStream Admin",
+      "category": "Urgent",
+      "date": "Apr 19, 2026",
+      "id": "33BD770F",
+      "isActive": true,
+      "message": "is there any app which can do it because it was free trial end and he was accused my old project file ",
+      "priority": "high",
+      "time": "02:08 PM",
+      "title": "huu"
     }
   ]
 }
