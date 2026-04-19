@@ -1,0 +1,16 @@
+{
+  "notices": [
+    {
+      "id": "1",
+      "title": "Exam Schedule Released",
+      "message": "Final exam timetable has been published. Check the website for details.",
+      "date": "2026-04-19",
+      "time": "10:30 AM",
+      "category": "academic",
+      "priority": "high",
+      "author": "Admin",
+      "attachmentUrl": "https://example.com/file.pdf",
+      "isActive": true
+    }
+  ]
+}
