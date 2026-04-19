@@ -23,6 +23,18 @@
       "author": "Admin",
       "attachmentUrl": "",
       "isActive": true
+    },
+    {
+      "id": "3",
+      "title": "Sports Meet Registration",
+      "message": "Students can register for annual sports meet before 25th April.",
+      "date": "2026-04-21",
+      "time": "11:00 AM",
+      "category": "event",
+      "priority": "low",
+      "author": "Sports Dept",
+      "attachmentUrl": "https://example.com/sports.pdf",
+      "isActive": true
     }
   ]
 }
