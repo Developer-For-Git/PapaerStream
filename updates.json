@@ -1,13 +1,10 @@
 {
-  "version": "1.10.12",
-  "date": "2026-03-20",
-  "title": "Fix Bugs and Add Features",
   "changes": [
-    "Seamless in-app updates",
-    "UI redesign",
-    "Bug fixes",
-    "Improved version accuracy",
-    "Recently added apps now shown first"
+    "SeamlessDat"
   ],
-  "download_url": "https://github.com/Developer-For-Git/MOD-STORE/releases/download/New/MOD.STORE.v.1.10.20.apk"
+  "date": "Apr 19, 2026",
+  "download_url": "https://github.com/Developer-For-Git/MOD-STORE/releases/download/New/MOD.STORE.v.1.10.20.apk",
+  "is_mandatory": false,
+  "title": "Fun",
+  "version": "1.10.13"
 }
