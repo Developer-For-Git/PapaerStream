@@ -1,10 +1,14 @@
 {
   "changes": [
-    "Reminds "
+    "⚡ Hybrid Data Sync: Added GitHub-first loading with internal caching for faster performance and offline support.",
+    "🧼 Data Cleanup: Removed old legacy files and fixed character display errors (encoding artifacts).",
+    "🔄 Force Refresh: Added a new settings option to manually pull the latest materials from GitHub.",
+    "🗑️ Data Reset: Added the ability to clear cache and reset the database directly from Settings.",
+    "🚀 Stability: Fixed background sync bugs and improved app reliability."
   ],
-  "date": "Apr 19, 2026",
-  "download_url": "https://github.com/Developer-For-Git/MOD-STORE/releases/download/New/MOD.STORE.v.1.10.20.apk",
+  "date": "Apr 20, 2026",
+  "download_url": "https://github.com/Developer-For-Git/PapaerStream/releases/download/new/PaperStream-V1.10.12.apk",
   "is_mandatory": true,
-  "title": "removed from the image and translate into English and ",
-  "version": "1.10.11"
+  "title": "Smart Data \u0026 Clean UI",
+  "version": "1.10.12"
 }
