@@ -36,14 +36,7 @@
     },
     {
       "id": "em",
-      "items": [
-        {
-          "id": "em_note_1776703225600",
-          "tag": "notes",
-          "title": "Test",
-          "url": "https. test. com"
-        }
-      ],
+      "items": [],
       "name": "EM"
     }
   ]
