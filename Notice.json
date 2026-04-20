@@ -1,3 +1,15 @@
 {
-  "notices": []
+  "notices": [
+    {
+      "author": "PaperStream Admin",
+      "category": "Maintenance",
+      "date": "Apr 20, 2026",
+      "id": "7A4C3179",
+      "isActive": true,
+      "message": "So if are facing issues to open pdf or showing 404 Error on open pdf in this cause just simply open app info and clear cach data and clear cach storage after clearing this both the app will working fine and load all pdf ",
+      "priority": "high",
+      "time": "08:42 PM",
+      "title": "\"Temporary Bug Fix\""
+    }
+  ]
 }
