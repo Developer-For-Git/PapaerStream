@@ -50,19 +50,19 @@
     },
     {
       "id": "foet",
-      "items": [],
+      "items": [
+        {
+          "id": "em_assi_1776780269677",
+          "tag": "practical",
+          "title": "Test 2.0",
+          "url": "https://drive.google.com/file/d/18mkrBPjsI4r9zjJKCTztUZqH6t1v3yOb/view?usp\u003ddrivesdk"
+        }
+      ],
       "name": "FOET"
     },
     {
       "id": "em",
-      "items": [
-        {
-          "id": "em_assi_1776780269677",
-          "tag": "assignment",
-          "title": "Test",
-          "url": "https://drive.google.com/file/d/1l2D_AxP54erChV9JixA7901vWLeU2bSz/view?usp\u003dsharing"
-        }
-      ],
+      "items": [],
       "name": "EM"
     }
   ]
