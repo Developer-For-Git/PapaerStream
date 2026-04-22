@@ -2,17 +2,6 @@
   "notices": [
     {
       "author": "PaperStream Admin",
-      "category": "Urgent",
-      "date": "Apr 21, 2026",
-      "id": "507602A2",
-      "isActive": false,
-      "message": "there will be a test tomorrow\nSubject -EM\nTopic- Unit Second complete",
-      "priority": "normal",
-      "time": "02:42 PM",
-      "title": "Engineering Machines Test"
-    },
-    {
-      "author": "PaperStream Admin",
       "category": "General",
       "date": "Apr 21, 2026",
       "id": "7A92A631",
