@@ -7,7 +7,7 @@
           "id": "phys_prac_1776751447365",
           "tag": "practical",
           "title": "Physics Practical 1, 2",
-          "url": "https://drive.google.com/file/d/18mkrBPjsI4r9zjJKCTztUZqH6t1v3yOb/view?usp\u003ddrivesdk"
+          "url": "https://drive.google.com/file/d/18mkrBPjsI4r9zjJKCTztUZqH6t1v3yOb/view?usp=drivesdk"
         }
       ],
       "name": "Physics"
@@ -19,7 +19,7 @@
           "id": "math_note_1776574058425",
           "tag": "notes",
           "title": "Copy",
-          "url": "https://drive.google.com/file/d/1l2D_AxP54erChV9JixA7901vWLeU2bSz/view?usp\u003dsharing"
+          "url": "https://drive.google.com/file/d/1l2D_AxP54erChV9JixA7901vWLeU2bSz/view?usp=sharing"
         }
       ],
       "name": "Maths"
@@ -31,19 +31,19 @@
           "id": "it_assi_1776573906614",
           "tag": "assignment",
           "title": "IT 37 Question",
-          "url": "https://drive.google.com/file/d/1r9fx3B2LD_Z-sG5L_8ezh8F-vbRhciw9/view?usp\u003dsharing"
+          "url": "https://drive.google.com/file/d/1r9fx3B2LD_Z-sG5L_8ezh8F-vbRhciw9/view?usp=sharing"
         },
         {
           "id": "it_prac_1776751142533",
           "tag": "practical",
           "title": "It Assiment by Aniket",
-          "url": "https://drive.google.com/file/d/1hptWOd6PG-layFEmxBhBMVaV1duVD-dE/view?usp\u003ddrivesdk"
+          "url": "https://drive.google.com/file/d/1hptWOd6PG-layFEmxBhBMVaV1duVD-dE/view?usp=drivesdk"
         },
         {
           "id": "it_prac_1776751907510",
           "tag": "practical",
           "title": "it practical by kartik afgani",
-          "url": "https://drive.google.com/file/d/1zZOsz2775UICfacxjisBVTkTo4awLnYe/view?usp\u003ddrivesdk"
+          "url": "https://drive.google.com/file/d/1zZOsz2775UICfacxjisBVTkTo4awLnYe/view?usp=drivesdk"
         }
       ],
       "name": "IT"
@@ -55,13 +55,13 @@
           "id": "foet_note_1776826982783",
           "tag": "notes",
           "title": "1Unit Electronic Components And signals",
-          "url": "https://drive.google.com/file/d/1FZUgYCzCWhb3SzslxUEQqILmaQQzyz6q/view?usp\u003ddrivesdk"
+          "url": "https://drive.google.com/file/d/1FZUgYCzCWhb3SzslxUEQqILmaQQzyz6q/view?usp=drivesdk"
         },
         {
           "id": "foet_note_1776828005267",
           "tag": "notes",
           "title": "4 Unit Electric and Magnetic Circuits",
-          "url": "https://drive.google.com/file/d/1q3pkR2CDAKYQu9Qd_IHe87-z58S2-FWR/view?usp\u003ddrivesdk"
+          "url": "https://drive.google.com/file/d/1q3pkR2CDAKYQu9Qd_IHe87-z58S2-FWR/view?usp=drivesdk"
         }
       ],
       "name": "FOET"
@@ -70,6 +70,11 @@
       "id": "em",
       "items": [],
       "name": "EM"
+    },
+    {
+      "id": "tresur",
+      "items": [],
+      "name": "Treasury"
     }
   ]
 }
