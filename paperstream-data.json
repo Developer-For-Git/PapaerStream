@@ -87,7 +87,14 @@
     },
     {
       "id": "tresur",
-      "items": [],
+      "items": [
+        {
+          "id": "tres_note_1776895750403",
+          "tag": "notes",
+          "title": "intire CSE",
+          "url": "https://drive.google.com/drive/folders/1x4DSLFn_bxh5OHFGN77m1FUoTlA3lVbi?usp=sharing"
+        }
+      ],
       "name": "Treasury"
     }
   ]
