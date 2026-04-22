@@ -2,7 +2,6 @@
   "subjects": [
     {
       "id": "physics",
-      "name": "Physics",
       "items": [
         {
           "id": "phys_prac_1776751447365",
@@ -11,17 +10,17 @@
           "url": "https://drive.google.com/file/d/18mkrBPjsI4r9zjJKCTztUZqH6t1v3yOb/view?usp=drivesdk"
         },
         {
+          "description": "Not Find",
           "id": "62e59cb3-6974-49e7-beb8-5a2a84125893",
           "tag": "Community",
           "title": "Chaaoter 4",
-          "description": "Not Find",
           "url": "https://drive.google.com/file/d/18mkrBPjsI4r9zjJKCTztUZqH6t1v3yOb/view?usp=drivesdk"
         }
-      ]
+      ],
+      "name": "Physics"
     },
     {
       "id": "maths",
-      "name": "Maths",
       "items": [
         {
           "id": "math_note_1776574058425",
@@ -29,11 +28,11 @@
           "title": "Copy",
           "url": "https://drive.google.com/file/d/1l2D_AxP54erChV9JixA7901vWLeU2bSz/view?usp=sharing"
         }
-      ]
+      ],
+      "name": "Maths"
     },
     {
       "id": "it",
-      "name": "IT",
       "items": [
         {
           "id": "it_assi_1776573906614",
@@ -53,11 +52,11 @@
           "title": "it practical by kartik afgani",
           "url": "https://drive.google.com/file/d/1zZOsz2775UICfacxjisBVTkTo4awLnYe/view?usp=drivesdk"
         }
-      ]
+      ],
+      "name": "IT"
     },
     {
       "id": "foet",
-      "name": "FOET",
       "items": [
         {
           "id": "foet_note_1776826982783",
@@ -71,18 +70,25 @@
           "title": "4 Unit Electric and Magnetic Circuits",
           "url": "https://drive.google.com/file/d/1q3pkR2CDAKYQu9Qd_IHe87-z58S2-FWR/view?usp=drivesdk"
         }
-      ]
+      ],
+      "name": "FOET"
     },
     {
       "id": "em",
-      "name": "EM",
-      "items": []
+      "items": [
+        {
+          "id": "em_prac_1776894170076",
+          "tag": "practical",
+          "title": "hii",
+          "url": "https://drive.google.com/file/d/18mkrBPjsI4r9zjJKCTztUZqH6t1v3yOb/view?usp=drivesdk"
+        }
+      ],
+      "name": "EM"
     },
     {
       "id": "tresur",
-      "name": "Treasury",
-      "items": []
+      "items": [],
+      "name": "Treasury"
     }
   ]
 }
-
