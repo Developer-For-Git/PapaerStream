@@ -2,36 +2,14 @@
   "notices": [
     {
       "author": "PaperStream Admin",
-      "category": "Maintenance",
-      "date": "Apr 20, 2026",
-      "id": "7A4C3179",
-      "isActive": true,
-      "message": "So if are facing issues to open pdf or showing 404 Error on open pdf in this cause just simply open app info and clear cach data and clear cach storage after clearing this both the app will working fine and load all pdf ",
-      "priority": "high",
-      "time": "08:43 PM",
-      "title": "Temporary Bug Fix"
-    },
-    {
-      "author": "PaperStream Admin",
       "category": "Urgent",
-      "date": "Apr 20, 2026",
-      "id": "2E248078",
-      "isActive": true,
-      "message": "There will be a test tomorrow of Engineering Machines\n",
-      "priority": "normal",
-      "time": "10:48 PM",
-      "title": "tesr"
-    },
-    {
-      "author": "PaperStream Admin",
-      "category": "General",
       "date": "Apr 21, 2026",
-      "id": "15274BDF",
+      "id": "507602A2",
       "isActive": true,
-      "message": "It assiment as practically was summited on Friday mack sure you will complete it",
+      "message": "there will be a test tomorrow\nSubject -EM\nTopic- Unit Second complete",
       "priority": "normal",
-      "time": "11:45 AM",
-      "title": "It Notice "
+      "time": "02:42 PM",
+      "title": "Engineering Machines Test"
     },
     {
       "author": "PaperStream Admin",
@@ -46,14 +24,25 @@
     },
     {
       "author": "PaperStream Admin",
-      "category": "Urgent",
+      "category": "General",
       "date": "Apr 21, 2026",
-      "id": "507602A2",
+      "id": "15274BDF",
       "isActive": true,
-      "message": "there will be a test tomorrow\nSubject -EM\nTopic- Unit Second complete",
+      "message": "It assiment as practically was summited on Friday mack sure you will complete it",
       "priority": "normal",
-      "time": "02:42 PM",
-      "title": "Engineering Machines Test"
+      "time": "11:45 AM",
+      "title": "It Notice "
+    },
+    {
+      "author": "PaperStream Admin",
+      "category": "Urgent",
+      "date": "Apr 20, 2026",
+      "id": "2E248078",
+      "isActive": true,
+      "message": "There will be a test tomorrow of Engineering Machines\n",
+      "priority": "normal",
+      "time": "10:48 PM",
+      "title": "tesr"
     }
   ]
 }
