@@ -1,14 +1,13 @@
 {
   "changes": [
-    "⚡ Hybrid Data Sync: Added GitHub-first loading with internal caching for faster performance and offline support.",
-    "🧼 Data Cleanup: Removed old legacy files and fixed character display errors (encoding artifacts).",
-    "🔄 Force Refresh: Added a new settings option to manually pull the latest materials from GitHub.",
-    "🗑️ Data Reset: Added the ability to clear cache and reset the database directly from Settings.",
-    "🚀 Stability: Fixed background sync bugs and improved app reliability."
+    "👤 Account Visibility: Added a new section in Settings to display the currently logged-in Google account.",
+    "🚪 Secure Logout: Introduced a dedicated logout button in Settings for easy sign-out and account switching.",
+    "✨ UI Polish: Improved the login screen layout for a cleaner, perfectly centered visual experience.",
+    "🛠️ Core Optimization: Fixed background compilation errors to ensure more reliable and stable app updates."
   ],
-  "date": "Apr 20, 2026",
-  "download_url": "https://github.com/Developer-For-Git/PapaerStream/releases/download/new/PaperStream-V1.10.12.apk",
+  "date": "Apr 25, 2026",
+  "download_url": "https://github.com/Developer-For-Git/PapaerStream/releases/download/new/PaperStream-V1.10.13.apk",
   "is_mandatory": true,
-  "title": "Smart Data \u0026 Clean UI",
-  "version": "1.10.12"
+  "title": "UI \u0026\u0026 Google Login ",
+  "version": "1.10.13"
 }
