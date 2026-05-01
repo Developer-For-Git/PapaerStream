@@ -1,13 +1,13 @@
 {
   "changes": [
-    "👤 Account Visibility: Added a new section in Settings to display the currently logged-in Google account.",
-    "🚪 Secure Logout: Introduced a dedicated logout button in Settings for easy sign-out and account switching.",
-    "✨ UI Polish: Improved the login screen layout for a cleaner, perfectly centered visual experience.",
-    "🛠️ Core Optimization: Fixed background compilation errors to ensure more reliable and stable app updates."
+    " 📝 Enhanced Submissions: Modernized the \u0027Submit Paper\u0027 interface with dedicated split buttons for easily adding Photos and PDFs.",
+    "📎 Better Media Handling: Improved the submission workflow to ensure both images and PDF documents are reliably attached to support emails. ",
+    "🖼️ Image Loading Fix: Resolved a crash in the submission screen by properly integrating the Coil library for flawless gallery photo rendering. ",
+    "⚙️ Version Update: Bumped the app version to 1.10.14 and synchronized the version display in the Settings menu."
   ],
-  "date": "Apr 25, 2026",
-  "download_url": "https://github.com/Developer-For-Git/PapaerStream/releases/download/new/PaperStream-V1.10.13.apk",
+  "date": "May 02, 2026",
+  "download_url": "https://github.com/Developer-For-Git/PapaerStream/releases/download/new/PaperStream-V1.10.14.apk",
   "is_mandatory": true,
-  "title": "UI \u0026\u0026 Google Login ",
-  "version": "1.10.13"
+  "title": "Submission UI \u0026\u0026 Gallery Fixes",
+  "version": "1.10.14"
 }
