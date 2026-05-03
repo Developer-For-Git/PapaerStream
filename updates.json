@@ -1,11 +1,10 @@
 {
   "changes": [
-    "📊 Active User Tracking: Implemented real-time Firebase presence monitoring to accurately track daily and current active users, including updates to the data models for the admin dashboard.",
-    "🛠️ Architecture Refinements: Updated the authentication view models and local file repository to reliably handle the new user presence tracking and ad interception states."
+    "Fix Network Issues "
   ],
   "date": "May 03, 2026",
-  "download_url": "https://github.com/Developer-For-Git/PapaerStream/releases/download/new/PaperStream-V1.10.15.apk",
+  "download_url": "https://github.com/Developer-For-Git/PapaerStream/releases/download/new/PaperStream-V1.10.16.apk",
   "is_mandatory": true,
-  "title": "Active User Tracking",
+  "title": "Fix bug",
   "version": "1.10.15"
 }
