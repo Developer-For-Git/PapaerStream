@@ -2,6 +2,17 @@
   "notices": [
     {
       "author": "PaperStream Admin",
+      "category": "Maintenance",
+      "date": "May 05, 2026",
+      "id": "9423E814",
+      "isActive": true,
+      "message": "The app is temporary down ",
+      "priority": "high",
+      "time": "07:54 PM",
+      "title": "App"
+    },
+    {
+      "author": "PaperStream Admin",
       "category": "Urgent",
       "date": "May 02, 2026",
       "id": "932DC240",
