@@ -128,14 +128,7 @@
     },
     {
       "id": "tresur",
-      "items": [
-        {
-          "id": "tres_note_1778080146032",
-          "tag": "notes",
-          "title": "Treasury Item",
-          "url": "https://drive.google.com/file/d/10uq7KJaEMCAVjAxjig2z7sCDNu2aMKPr/view?usp=drivesdk"
-        }
-      ],
+      "items": [],
       "name": "Treasury"
     }
   ]
