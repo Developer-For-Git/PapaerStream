@@ -2,6 +2,17 @@
   "notices": [
     {
       "author": "PaperStream Admin",
+      "category": "General",
+      "date": "May 08, 2026",
+      "id": "A9CE6AFE",
+      "isActive": true,
+      "message": "hi",
+      "priority": "normal",
+      "time": "10:02 AM",
+      "title": "hi"
+    },
+    {
+      "author": "PaperStream Admin",
       "category": "Maintenance",
       "date": "May 08, 2026",
       "id": "CDDA3316",
