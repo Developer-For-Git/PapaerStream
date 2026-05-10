@@ -2,6 +2,17 @@
   "notices": [
     {
       "author": "PaperStream Admin",
+      "category": "Maintenance",
+      "date": "May 11, 2026",
+      "id": "4988E087",
+      "isActive": true,
+      "message": "If you face any issues just message me in my maile",
+      "priority": "normal",
+      "time": "01:39 AM",
+      "title": "Fug Fix"
+    },
+    {
+      "author": "PaperStream Admin",
       "category": "General",
       "date": "May 10, 2026",
       "id": "1A02BC26",
