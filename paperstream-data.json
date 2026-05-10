@@ -70,12 +70,6 @@
           "url": "https://drive.google.com/file/d/1uWjKADrdd2zAlfwXNrldWr2lF3iPdikc/view?usp=drivesdk"
         },
         {
-          "id": "it_assi_1778236015718",
-          "tag": "practical",
-          "title": "1 to 3",
-          "url": "https://drive.google.com/file/d/11nDOT67m04l3SBH0q3jLwmiYkP4SO2Im/view?usp=drivesdk"
-        },
-        {
           "id": "it_assi_1778236854583",
           "tag": "practical",
           "title": "4 to 5",
@@ -86,6 +80,12 @@
           "tag": "practical",
           "title": "6 to 8",
           "url": "https://drive.google.com/file/d/1-SDD3xXHIG1uvSBdK6ZyTGYyXOaOfx9g/view?usp=drivesdk"
+        },
+        {
+          "id": "it_assi_1778236015718",
+          "tag": "practical",
+          "title": "1 to 3",
+          "url": "https://drive.google.com/file/d/1ybnLFiNolvXDxy1jQGcOPaYnFaozo8m9/view?usp=drivesdk"
         }
       ],
       "name": "IT"
