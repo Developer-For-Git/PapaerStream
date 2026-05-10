@@ -1,11 +1,17 @@
 {
   "changes": [
-    "😐Fix Server Isue",
-    "🥲Implement Pdf scroll up down when user is zoom in the pdf. "
-  ],
-  "date": "May 06, 2026",
-  "download_url": "https://github.com/Developer-For-Git/PapaerStream/releases/download/new/PaperStream-V1.10.17.apk",
+    "✨ Create new premium origami app icon and splash screen",
+    "📱 Implement immersive full-screen PDF view (hides status & nav bars)",
+    "🥲 Implement Pdf scroll up down when user is zoom in the pdf",
+    "🔍 Add focal-point pinch-to-zoom (zooms exactly where you pinch)",
+    "🎨 Update fast-scrollbar design to perfectly match the app theme",
+    "⚡ Fix scrollbar lag and stuttering during fast page scrolling",
+    "👻 Add automatic 2-second fade-out for the fast scrollbar",
+    "🧹 Remove cluttered bottom-right zoom buttons for cleaner UI"
+],
+  "date": "May 11, 2026",
+  "download_url": "https://github.com/Developer-For-Git/PapaerStream/releases/download/new/PaperStream-V1.10.18.apk",
   "is_mandatory": true,
-  "title": "Fix Sever Issu",
-  "version": "1.10.17"
+  "title": "Premium App Icon & Smooth Zoom Scrolling Engine",
+  "version": "1.10.18"
 }
