@@ -106,12 +106,6 @@
           "url": "https://drive.google.com/file/d/1q3pkR2CDAKYQu9Qd_IHe87-z58S2-FWR/view?usp=drivesdk"
         },
         {
-          "id": "foet_prac_1777428133823",
-          "tag": "practical",
-          "title": "1To 5 Asiment",
-          "url": "https://drive.google.com/file/d/1sgNH0Dd20KX89gVLZPagAUAynRgYzE6R/view?usp=drivesdk"
-        },
-        {
           "id": "foet_prac_1778148555416",
           "tag": "practical",
           "title": "6,7",
@@ -122,6 +116,12 @@
           "tag": "practical",
           "title": "8",
           "url": "https://drive.google.com/file/d/1roiuVDICSzml0vXa0_Va_PXEFGoSZKNO/view?usp=drivesdk"
+        },
+        {
+          "id": "foet_prac_1777428133823",
+          "tag": "practical",
+          "title": "1To 5",
+          "url": "https://drive.google.com/file/d/1sgNH0Dd20KX89gVLZPagAUAynRgYzE6R/view?usp=drivesdk"
         }
       ],
       "name": "FOET"
