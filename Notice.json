@@ -1,3 +1,15 @@
 {
-  "notices": []
+  "notices": [
+    {
+      "author": "PaperStream Admin",
+      "category": "Urgent",
+      "date": "May 14, 2026",
+      "id": "E8097396",
+      "isActive": true,
+      "message": "Agar koi student exam me fail/back aaya hai ya repeat karna chahta hai, aur dubara admission lena chahta hai, to usko college me ek form bhar ke jama karna hoga.\n\n📅Last date: 20 May 2026\n\nAgar 20 May ke baad form jama kiya, to college usko accept nahi karega.",
+      "priority": "high",
+      "time": "05:29 PM",
+      "title": "Fail/back"
+    }
+  ]
 }
