@@ -1,15 +1,11 @@
 {
  "changes": [
-    "🛠️ Fix compiler error in InsightsViewModel to restore successful builds",
-    "📈 Fix missing Study Analytics by properly fetching subjects from remote repository",
-    "🛡️ Prevent fatal app crashes when launching email feedback and external notice links",
-    "🎨 Standardize UI color tokens across the app by replacing PrimaryAccent with PrimaryOrange",
-    "💥 Resolve StackOverflow fatal crash in Study Analytics caused by recursive UI scaling",
-    "💾 Fix data loss bug to ensure all PDF study time and reading sessions are successfully saved to the database"
+    "🛠️ Fix compiler error ",
+    "💾 Removed adds"
 ],
-  "date": "May 15, 2026",
-  "download_url": "https://github.com/Developer-For-Git/PapaerStream/releases/download/new/PaperStream-V1.10.19.apk",
+  "date": "May 22, 2026",
+  "download_url": "https://github.com/Developer-For-Git/PapaerStream/releases/download/new/PaperStream-V1.10.20.apk",
   "is_mandatory": true,
-  "title": "Study Analytics Restoration & Critical Stability Fixes",
-  "version": "1.10.19"
+  "title": "Remove Adds",
+  "version": "1.10.20"
 }
