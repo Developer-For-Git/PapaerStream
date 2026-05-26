@@ -1,11 +1,21 @@
 {
- "changes": [
-    "🛠️ Fix compiler error ",
-    "💾 Removed adds"
-],
-  "date": "May 22, 2026",
-  "download_url": "https://github.com/Developer-For-Git/PapaerStream/releases/download/new/PaperStream-V1.10.21.apk",
+  "changes": [
+    "🐛 Fix message action sheet (Reply/Copy/More) overlapping bottom navigation bar",
+    "🐛 Fix app dock bar touching system 3-button navigation bar",
+    "🐛 Fix chat input bar touching system 3-button navigation bar",
+    "🐛 Fix Firebase listener memory leak — listeners now properly removed on sign-out",
+    "🐛 Fix presence tracker writing wrong disconnect timestamp",
+    "🐛 Fix duplicate update check on app start causing two network requests",
+    "🐛 Fix hard-coded bottom padding in home screen ignoring nav bar height",
+    "🐛 Fix PDF last-read page lost when URL changes",
+    "🐛 Fix session time uncapped — now limited to 2 hours max",
+    "🧹 Remove dead code blocks from HomeScreen and navigation graph",
+    "✨ App now loads subjects without internet using offline cache",
+    "🔒 PDF share in chat — Videos and PDFs marked Coming Soon"
+  ],
+  "date": "May 27, 2026",
+  "download_url": "https://github.com/Developer-For-Git/PapaerStream/releases/download/new/PaperStream-V1.10.22.apk",
   "is_mandatory": true,
-  "title": "Remove Adds",
-  "version": "1.10.21"
+  "title": "Bug Fixes & Improvements",
+  "version": "1.10.22"
 }
