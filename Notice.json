@@ -1,15 +1,3 @@
 {
-  "notices": [
-    {
-      "author": "PaperStream Admin",
-      "category": "General",
-      "date": "May 22, 2026",
-      "id": "CDF0837F",
-      "isActive": true,
-      "message": "Hey guys!\r\n\r\nThere’s a Physics test on **23 May 2026 at 2:30 PM** in **Room No. 216**.\r\n\r\nPlease make sure to come on time because after 2:30 PM, no one will be allowed to enter the exam room. So try to reach a little early 😊\r\n\r\nAlso, this test is basically for students who need a little extra help or another chance to improve their marks in Physics. It is usually for students who:\r\n\r\n* scored low marks before, (Not sure about it ) \r\n* missed an earlier test/exam, (That the reason for exam) \r\n* or need another chance to clear the subject.(Not sure about it) \r\n",
-      "priority": "high",
-      "time": "08:05 PM",
-      "title": "Physics Test"
-    }
-  ]
+  "notices": []
 }
