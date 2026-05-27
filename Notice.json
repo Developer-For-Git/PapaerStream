@@ -1,3 +1,15 @@
 {
-  "notices": []
+  "notices": [
+    {
+      "author": "PaperStream Admin",
+      "category": "Urgent",
+      "date": "May 27, 2026",
+      "id": "AFD1AD55",
+      "isActive": true,
+      "message": "This is to inform all students that the **Exam Form Portal** is now open for the **2nd Semester** examinations.\n\n### Important Instructions:\n- All students are required to fill their **2nd Semester Exam Form** online.\n- The fee for the 2nd Semester Exam Form is **₹560**.\n- Students having **back** in any subject of the **1st Semester** can also fill the back form through the same portal. The portal will automatically show the required fee amount for back papers.\n- Students are advised to **submit their exam forms as soon as possible** to avoid last-minute issues.\n\n### Document Required:\n- **ABC ID** (Aadhaar-linked Academic Bank of Credits ID)\n\nFor any queries, please contact Or tell us in app Chat section ",
+      "priority": "high",
+      "time": "07:37 AM",
+      "title": "Submission of 2nd Semester Exam Forms**\n"
+    }
+  ]
 }
