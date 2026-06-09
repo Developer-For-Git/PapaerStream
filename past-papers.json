@@ -1,0 +1,140 @@
+{
+  "semester": "2nd Semester (All Branches)",
+  "subjects": [
+    {
+      "id": "maths",
+      "name": "Mathematics",
+      "papers": [
+        {
+          "year": "2023",
+          "session": "F (Fall)",
+          "link": "https://drive.google.com/file/d/11ZUKJeU3J5zMSshXOYEVKMDUQOMC2Smc/view?usp=drive_link"
+        },
+        {
+          "year": "2024",
+          "session": "F (Fall)",
+          "link": "https://drive.google.com/file/d/1cBnzyIBh7KBgialDzguR4oP2gkPrC5wR/view?usp=drive_link"
+        },
+        {
+          "year": "2025",
+          "session": "S (Spring)",
+          "link": "https://drive.google.com/file/d/19_JqyvXNry_he7US2Ckk5BXo4Uxz8gWN/view?usp=drive_link"
+        }
+      ]
+    },
+    {
+      "id": "physics",
+      "name": "Physics",
+      "papers": [
+        {
+          "year": "2023",
+          "session": "F (Fall)",
+          "link": "https://drive.google.com/file/d/1Xb8SLlfMfoIuJeYj0-rMCRiUhQbiGZFu/view?usp=drive_link"
+        },
+        {
+          "year": "2024",
+          "session": "F (Fall)",
+          "link": "https://drive.google.com/file/d/1Dl5jcEjuKnt7LqUEdIx7uMMmIaFZV0Br/view?usp=drive_link"
+        },
+        {
+          "year": "2025",
+          "session": "S (Spring)",
+          "link": "https://drive.google.com/file/d/144TKcBI_E9jIPNYqH_9AH-X0TKZyVDTK/view?usp=drive_link"
+        },
+        {
+          "year": "2025",
+          "session": "F (Fall)",
+          "link": "https://drive.google.com/file/d/1LPClk9zexmX6QvuWSDNewMtjn4Fo3dkC/view?usp=drive_link"
+        }
+      ]
+    },
+    {
+      "id": "it",
+      "name": "Information Technology",
+      "papers": [
+        {
+          "year": "2022",
+          "session": "F (Fall)",
+          "link": "https://drive.google.com/file/d/1VbQnwZZS05seBTbcrv09Kugcc43Qy7-B/view?usp=share_link"
+        },
+        {
+          "year": "2023",
+          "session": "F (Fall)",
+          "link": "https://drive.google.com/file/d/1uDn_0PJaCIWmYO_VB8m61UMT21iev76v/view?usp=drive_link"
+        },
+        {
+          "year": "2024",
+          "session": "F (Fall)",
+          "link": "https://drive.google.com/file/d/1q0_mo6SvfkEJAcjbpoXFTvKpngaLJsYr/view?usp=drive_link"
+        },
+        {
+          "year": "2025",
+          "session": "S (Spring)",
+          "link": "https://drive.google.com/file/d/1S5qmtaJRCQ12BKMomXCF4Acj4Flq9pm/view?usp=drive_link"
+        },
+        {
+          "year": "2025",
+          "session": "F (Fall)",
+          "link": "https://drive.google.com/file/d/1L2IwaLy4qFVqSCFALroIbpo1SvIbIHJJ/view?usp=drive_link"
+        }
+      ]
+    },
+    {
+      "id": "foet",
+      "name": "FOET (Fundamentals of Engineering)",
+      "papers": [
+        {
+          "year": "2022",
+          "session": "F (Fall)",
+          "link": "https://drive.google.com/file/d/1NDQphMo8JD-ASASAugKhyegI6DAZCaLB/view?usp=share_link"
+        },
+        {
+          "year": "2023",
+          "session": "F (Fall)",
+          "link": "https://drive.google.com/file/d/1DV2OD5bVmSOhCj2hRq9YFkayo9QmdQ4F/view?usp=drive_link"
+        },
+        {
+          "year": "2024",
+          "session": "F (Fall)",
+          "link": "https://drive.google.com/file/d/1unQzggG0PxrTMSmQlnJDpjdh1xL5iezt/view?usp=drive_link"
+        },
+        {
+          "year": "2025",
+          "session": "S (Spring)",
+          "link": "https://drive.google.com/file/d/1Jn0XU1aJ-4ZUMEGMnWWfiMQIClvEExf5/view?usp=drive_link"
+        },
+        {
+          "year": "2025",
+          "session": "F (Fall)",
+          "link": "https://drive.google.com/file/d/1IL2hRgxDap0FsPmaGaHGa_0rpCS6CJql/view?usp=drive_link"
+        }
+      ]
+    },
+    {
+      "id": "mechanics",
+      "name": "Engineering Mechanics",
+      "papers": [
+        {
+          "year": "2022",
+          "session": "F (Fall)",
+          "link": "https://drive.google.com/file/d/1dcEumdgVKD09Slmci00mvSKfdGH_mG1o/view?usp=share_link"
+        },
+        {
+          "year": "2023",
+          "session": "F (Fall)",
+          "link": "https://drive.google.com/file/d/1icHPCpeP1irc6c_Fi9wzvSUeJFvosgca/view?usp=drive_link"
+        },
+        {
+          "year": "2024",
+          "session": "F (Fall)",
+          "link": "https://drive.google.com/file/d/1-dhNJO91InZUZKKeE2RtnFlbKRl0UxTs/view?usp=drive_link"
+        },
+        {
+          "year": "2025",
+          "session": "F (Fall)",
+          "link": "https://drive.google.com/file/d/13uKI1AZhAQyQtwwxe9UMb5dq5SraCuOK/view?usp=drive_link"
+        }
+      ]
+    }
+  ]
+}
